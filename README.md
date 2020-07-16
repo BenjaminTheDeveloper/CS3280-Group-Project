@@ -23,9 +23,8 @@ Air BnB Project
 - Images
 
 ### UI Interface
-- WinForms *Easiest
-- MVC?
-- WPF *More Advanced
+- Utilizing MVC
+
 
 ### Design Patterns
 - Singleton possibly for DataAccess
